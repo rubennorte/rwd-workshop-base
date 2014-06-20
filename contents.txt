@@ -1,0 +1,11 @@
+Contents
+
+Introduction
+1. What is and why RWD.
+2. Design patterns and examples.
+3. Enabling technologies: CSS3, HTML5 and JS libraries (Modernizr & plugins)
+
+Practice
+1. Layout
+2. Typography
+3. Images
